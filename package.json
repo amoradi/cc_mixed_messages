@@ -1,0 +1,12 @@
+{
+  "name": "mixed_messages",
+  "version": "1.0.0",
+  "description": "random message generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "do": "node index.js"
+  },
+  "author": "Aaron Moradi",
+  "license": "ISC"
+}
