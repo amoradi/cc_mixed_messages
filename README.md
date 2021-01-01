@@ -1,9 +1,7 @@
 # Mixed Messages
 
+Gen some random quotes.
+
 ## Run
 
 npm run do
-
-## Fun
-
-You should see some random quotes.
